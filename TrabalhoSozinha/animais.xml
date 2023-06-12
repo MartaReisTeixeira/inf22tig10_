@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<animais xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:noNamespaceSchemaLocation="animais_schema_.xsd">
+
+    <animal>
+        <nome>Anúbis</nome>
+        <sobre_animal>Anúbis, também chamado de Anupo, é o deus egípcio protetor, guardião e guia dos mortos. Na mitologia egípcia, ele auxilia os mortos no encontro com Osíris. Para isso, é associado ao olho de Hórus e também apontado como o deus dos ritos funerários, como o processo de mumificação dos faraós.</sobre_animal>
+        <sobre_cada_um>Anúbis ficava em cargo da organização dos ritos funerários como preparar o ritual de morte e embalsamar os corpos. Além disso, ele ficou responsável por guiar a alma dos mortos. Depois de mumificado, o coração do morto era entregue a Anúbis e este pesava cada um. Reza a lenda que, nesse processo ele usava a chamada "pena da verdade". Se o órgão fosse mais pesado que o objeto, ele era levado para ser devorado por Ammit, o deus leão. Isso porque esse coração mais pesado que a pena estava cheio de maldade. Se o coração fosse mais leve, certamente ele estava repleto de bondade. Por conseguinte, ele era guiado por Anúbis até o mundo do além, onde governava seu pai, Osíris.</sobre_cada_um>
+    </animal>
+
+    <animal>
+        <nome>Pegasus</nome>
+        <sobre_animal>A lenda de Pégaso é uma das grandes histórias e figuras que fazem parte da mitologia grega. Também conhecido como Pegasus, o animal é descrito como um cavalo branco voador possuidor de asas. Pégaso era conhecido pela sua inteligência e espírito nobre. O cavalo era domado apenas por alguém com características nobres e possuidor de gentileza. Este animal conseguia identificar quem tinha essas habilidades e assim afastava o mal.</sobre_animal>
+        <sobre_cada_um>O pégaso surgiu da cabeça de Medusa quando esta foi decepada pelo semideus Perseu. Após seu nascimento, ele voou para o Olimpo, onde passou a ser responsável por trazer o trovão e o relâmpago para Zeus, mas foi domado por Belerofonte, um jovem herói grego. O rapaz havia conseguido com a deusa Atena um arreio mágico, que possibilitou realizar o feito sem dificuldades.</sobre_cada_um>
+    </animal>
+
+    <animal>
+        <nome>Manticora</nome>
+        <sobre_animal>A Manticora é uma criatura lendária, monstruosa, conhecida por ter o corpo de um leão, a cara de um homem de olhos azuis e uma cauda parecida com a do escorpião, tendo também igual capacidade de atirar ferrões envenenados. A boca apresenta três camadas ou fileiras de dentes semelhante ao sistema dentário dos tubarões.</sobre_animal>
+        <sobre_cada_um>Dizia-se que a mantícora atraía as pessoas deitando na grama alta ou nos juncos. Isso esconderia seu corpo magnífico e mostraria apenas a cabeça do que parecia ser um homem barbudo. Muitas vítimas teriam se aventurado muito perto da besta, apenas para serem devoradas por suas três fileiras de dentes afiados. A lenda também dizia que esta criatura antes de matar pedia sempre à vítima que lhe respondesse a uma charada ou enigma. Atualmente, o mito diluiu-se mas podemos ver esta criatura representada em jogos de computador, filmes, literatura, ou outras artes. Rezavam ainda as lendas sobre a Manticora que o seu rosnar era semelhante ao som de um trompete.</sobre_cada_um>
+    </animal>
+
+</animais>
